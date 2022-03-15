@@ -133,6 +133,7 @@ After installing, you need to register the custom authenticator with Sparkmagic 
                "Kerberos": "sparkmagic.auth.kerberos.Kerberos",
                "None": "sparkmagic.auth.customauth.Authenticator",
                "Basic_Access": "sparkmagic.auth.basic.Basic",
+               "Negotiate": "sparkmagic.auth.negotiate.Negotiate",
                "Custom_Auth": "customauthenticator.customauthenticator.CustomAuthenticator"
          }
        }
@@ -148,6 +149,7 @@ After installing, you need to register the custom authenticator with Sparkmagic 
                       u"Kerberos": u"sparkmagic.auth.kerberos.Kerberos",
                       u"None": u"sparkmagic.auth.customauth.Authenticator",
                       u"Basic_Access": u"sparkmagic.auth.basic.Basic", 
+                      u"Negotiate": u"sparkmagic.auth.negotiate.Negotiate",
                       u"Custom_Auth": u"customauthenticator.customauthenticator.CustomAuthenticator"
               }
       ```
