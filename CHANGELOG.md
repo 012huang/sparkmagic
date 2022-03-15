@@ -2,6 +2,11 @@
 
 ## NEXT RELEASE
 
+## 0.19.2
+
+### Updates
+* Added negotiate authentication.
+
 ## 0.19.1
 
 ### Bug Fixes

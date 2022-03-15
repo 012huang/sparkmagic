@@ -104,6 +104,7 @@ LIVY_KIND_PARAM = u"kind"
 NO_AUTH = "None"
 AUTH_KERBEROS = "Kerberos"
 AUTH_BASIC = "Basic_Access"
+AUTH_NEGOTIATE = "Negotiate"
 
 CONFIGURABLE_RETRY = "configurable"
 LINEAR_RETRY = "linear"
