@@ -44,7 +44,8 @@
   "authenticators": {
     "Kerberos": "sparkmagic.auth.kerberos.Kerberos",
     "None": "sparkmagic.auth.customauth.Authenticator", 
-    "Basic_Access": "sparkmagic.auth.basic.Basic"
+    "Basic_Access": "sparkmagic.auth.basic.Basic",
+    "Negotiate": "sparkmagic.auth.negotiate.Negotiate"
   },
 
   "wait_for_idle_timeout_seconds": 15,

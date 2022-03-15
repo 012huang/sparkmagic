@@ -93,6 +93,7 @@ setup(
         "ipywidgets>5.0.0",
         "notebook>=4.2",
         "tornado>=4",
+		"requests-negotiate>=1.5",
         "requests_kerberos>=0.8.0",
     ],
 )
